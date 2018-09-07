@@ -1,0 +1,248 @@
+[
+  {
+    "id": "VQWcwqprEeinZduyzebEYg",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:52:24",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "staeiou",
+    "text": "Abstract—Although  shill  bidding  is  a  common  auctionfraud,  it  is  however  very  tough  to  detect.  Due  to  the  un-availability and lack of training data, in this study, we builda high-quality labeled shill bidding dataset based on recentlycollected auctions from eBay. Labeling shill biding instanceswith  multidimensional  features  is  a  critical  phase  for  thefraud  classification  task.  For  this  purpose,  we  introduce  anew  approach  to  systematically  label  the  fraud  data  withthe  help  of  the  hierarchical  clustering  CURE  that  returnsremarkable results as illustrated in the experiments.",
+    "quote": "Abstract—Although  shill  bidding  is  a  common  auctionfraud,  it  is  however  very  tough  to  detect.  Due  to  the  un-availability and lack of training data, in this study, we builda high-quality labeled shill bidding dataset based on recentlycollected auctions from eBay. Labeling shill biding instanceswith  multidimensional  features  is  a  critical  phase  for  thefraud  classification  task.  For  this  purpose,  we  introduce  anew  approach  to  systematically  label  the  fraud  data  withthe  help  of  the  hierarchical  clustering  CURE  that  returnsremarkable results as illustrated in the experiments.",
+    "tags": [
+      "abstract"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf",
+        "selector": [
+          {
+            "type": "TextPositionSelector",
+            "end": 900,
+            "start": 274
+          },
+          {
+            "exact": "Abstract—Although  shill  bidding  is  a  common  auctionfraud,  it  is  however  very  tough  to  detect.  Due  to  the  un-availability and lack of training data, in this study, we builda high-quality labeled shill bidding dataset based on recentlycollected auctions from eBay. Labeling shill biding instanceswith  multidimensional  features  is  a  critical  phase  for  thefraud  classification  task.  For  this  purpose,  we  introduce  anew  approach  to  systematically  label  the  fraud  data  withthe  help  of  the  hierarchical  clustering  CURE  that  returnsremarkable results as illustrated in the experiments.",
+            "prefix": "08.07288v1  [cs.LG]  22 Aug 2018",
+            "type": "TextQuoteSelector",
+            "suffix": "I.  INTRODUCTIONThe last three d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "YRusNqprEeiVOfPUMhc4jQ",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:52:07",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "staeiou",
+    "text": "Clustering and Labelling Auction Fraud Data",
+    "quote": "Clustering and Labelling Auction Fraud Data",
+    "tags": [
+      "title"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf",
+        "selector": [
+          {
+            "type": "TextPositionSelector",
+            "end": 43,
+            "start": 0
+          },
+          {
+            "exact": "Clustering and Labelling Auction Fraud Data",
+            "prefix": "  \n        \n\n        \n          ",
+            "type": "TextQuoteSelector",
+            "suffix": "Ahmad Alzahrani and Samira Sadao"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aguP5qprEeiR9VNxDca-Gg",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:51:42",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "staeiou",
+    "text": "Ahmad Alzahrani and Samira Sadaoui\n",
+    "quote": "Ahmad Alzahrani and Samira Sadaoui",
+    "tags": [
+      "authors"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf",
+        "selector": [
+          {
+            "type": "TextPositionSelector",
+            "end": 77,
+            "start": 43
+          },
+          {
+            "exact": "Ahmad Alzahrani and Samira Sadaoui",
+            "prefix": "and Labelling Auction Fraud Data",
+            "type": "TextQuoteSelector",
+            "suffix": "CS 2018-08DOI: 10.6084/m9.figsha"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h_FGrqprEeiJwbfPaXeTkA",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:51:19",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "staeiou",
+    "text": "2018",
+    "quote": "2018",
+    "tags": [
+      "year"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf",
+        "selector": [
+          {
+            "type": "TextPositionSelector",
+            "end": 133,
+            "start": 129
+          },
+          {
+            "exact": "2018",
+            "prefix": "84/m9.figshare.6993308Copyrightc",
+            "type": "TextQuoteSelector",
+            "suffix": ", A. Alzahrani, S. SadaouiDepart"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "RrQXzqpsEeiHlZsKsePG_g",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:44:25",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "staeiou",
+    "text": "unsupervised learning, clustering, not human",
+    "quote": "Since   SB   data   are   not   labeled,   data   clustering,   anunsupervised learning method, can be utilized to facilitatethe  labeling  task.  Clustering  is  the  process  of  isolatinginstances  into  K  groups  based  on  their  similarities. ",
+    "tags": [
+      "labeling"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf",
+        "selector": [
+          {
+            "type": "TextPositionSelector",
+            "end": 9025,
+            "start": 8775
+          },
+          {
+            "exact": "Since   SB   data   are   not   labeled,   data   clustering,   anunsupervised learning method, can be utilized to facilitatethe  labeling  task.  Clustering  is  the  process  of  isolatinginstances  into  K  groups  based  on  their  similarities. ",
+            "prefix": "CALCLUSTERING OFSHILLBIDDINGDATA",
+            "type": "TextQuoteSelector",
+            "suffix": " Theclustering  techniques  fall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tPkRfKprEei5Kgsb8zsktw",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:40:20",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": true,
+    "user": "staeiou",
+    "text": "finance",
+    "quote": "",
+    "tags": [
+      "fields"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf"
+      }
+    ]
+  },
+  {
+    "id": "qnpeQKprEeiXi38vOKQjbA",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:40:03",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": true,
+    "user": "staeiou",
+    "text": "e-commerce",
+    "quote": "",
+    "tags": [
+      "fields"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf"
+      }
+    ]
+  },
+  {
+    "id": "e_hGDqprEeiWOX97EDGUnA",
+    "url": "https://arxiv.org/pdf/1808.07288.pdf",
+    "updated": "2018-08-28T02:38:45",
+    "title": "1808.07288.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "staeiou",
+    "text": "",
+    "quote": "10.6084/m9.figshare.6993308",
+    "tags": [
+      "doi"
+    ],
+    "group": "ErPXAXMd",
+    "target": [
+      {
+        "source": "https://arxiv.org/pdf/1808.07288.pdf",
+        "selector": [
+          {
+            "type": "TextPositionSelector",
+            "end": 119,
+            "start": 92
+          },
+          {
+            "exact": "10.6084/m9.figshare.6993308",
+            "prefix": "nd Samira SadaouiCS 2018-08DOI: ",
+            "type": "TextQuoteSelector",
+            "suffix": "Copyrightc2018, A. Alzahrani, S."
+          }
+        ]
+      }
+    ]
+  }
+]
